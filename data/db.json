@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "Title 1",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu velit maximus nibh mattis tristique. Mauris aliquam ex vel lobortis imperdiet. Cras faucibus, libero vitae vulputate tempor, dolor magna scelerisque mi, at condimentum justo sem a mi. Etiam at mollis orci, ac porta diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse a enim dolor. Maecenas vitae rhoncus ante. Mauris sed dignissim nunc, non eleifend turpis. In nec dui sed augue mattis efficitur. Etiam at tortor magna. Aliquam quis eros lacus. Nulla tempus ligula justo, eu elementum mauris pharetra ut. Nulla molestie nisl at lectus tristique commodo.",
+            "author": "Author 1",
+            "id": 1
+        },
+        {
+            "title": "Title 2",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu velit maximus nibh mattis tristique. Mauris aliquam ex vel lobortis imperdiet. Cras faucibus, libero vitae vulputate tempor, dolor magna scelerisque mi, at condimentum justo sem a mi. Etiam at mollis orci, ac porta diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse a enim dolor. Maecenas vitae rhoncus ante. Mauris sed dignissim nunc, non eleifend turpis. In nec dui sed augue mattis efficitur. Etiam at tortor magna. Aliquam quis eros lacus. Nulla tempus ligula justo, eu elementum mauris pharetra ut. Nulla molestie nisl at lectus tristique commodo.",
+            "author": "Author 2",
+            "id": 2
+        },
+        {
+            "title": "Title 3",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu velit maximus nibh mattis tristique. Mauris aliquam ex vel lobortis imperdiet. Cras faucibus, libero vitae vulputate tempor, dolor magna scelerisque mi, at condimentum justo sem a mi. Etiam at mollis orci, ac porta diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse a enim dolor. Maecenas vitae rhoncus ante. Mauris sed dignissim nunc, non eleifend turpis. In nec dui sed augue mattis efficitur. Etiam at tortor magna. Aliquam quis eros lacus. Nulla tempus ligula justo, eu elementum mauris pharetra ut. Nulla molestie nisl at lectus tristique commodo.",
+            "author": "Author 3",
+            "id": 3
+        }
+    ]
+}
