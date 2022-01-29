@@ -4,7 +4,7 @@ Masked Blog is a simple blogging website. User can create, read and delete blogs
 
 ## Screenshot
 
-
+![masked-blog](https://user-images.githubusercontent.com/66861616/151653101-63e95500-b5a2-462d-958c-a8914e4728dc.png)
 
 ## Project Structure:
     masked-blog/
